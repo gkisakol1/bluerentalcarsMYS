@@ -8,10 +8,10 @@ const About = () => {
     <Container>
       <Row>
         <Col lg={6}>
-          <Image src={about} className="img-fluid" alt="About Us"/>
+          <Image src={about} className="img-fluid" alt="About Us" />
         </Col>
         <Col lg={6}>
-          <h2>What do we offer?</h2>
+          <h2>What do We offer ?</h2>
           <p>
             Whether you're flying into undefined for a short break or a longer
             stay, you can take the stress out of your onward journey by renting
@@ -32,7 +32,7 @@ const About = () => {
             now and rent a car online today.
           </p>
           <p align="right">
-              <Image src={signature} alt="Signature"/>
+            <Image src={signature} alt="Signature" />
           </p>
         </Col>
       </Row>
